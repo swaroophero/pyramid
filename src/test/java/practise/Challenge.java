@@ -36,10 +36,7 @@ public class Challenge {
 	
 		Select sel = new Select(element);
 		sel.selectByVisibleText("Avon");
-//		r.keyPress(KeyEvent.VK_DOWN);
-//		r.keyRelease(KeyEvent.VK_DOWN);
-//		r.keyPress(KeyEvent.VK_ENTER);
-//		r.keyRelease(KeyEvent.VK_ENTER);
+
 
 		
 	}
